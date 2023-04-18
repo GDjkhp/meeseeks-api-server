@@ -1,0 +1,19 @@
+So, you wanna use this API, eh? You can, just don't abuse/DDoS. Report to GDjkhp#3732 if it's down.
+This API enables cross-origin requests to anywhere.
+
+Usage:
+
+/               Shows help
+/<server_id>    Create a request to "https://mee6.xyz/api/plugins/levels/leaderboard/<server_id>", and includes CORS headers in the response.
+
+Demo:
+https://gdjkhp.github.io/meeseeks-leaderboard-api/
+
+Source Code:
+https://replit.com/@GDjkhp/meeseeks-api/
+https://github.com/GDjkhp/meeseeks-leaderboard-api/
+
+Credits:
+https://github.com/Rob--W/cors-anywhere/
+https://replit.com/@7ih/cors-anywhere/
+https://discord.gg/geometrydash/
